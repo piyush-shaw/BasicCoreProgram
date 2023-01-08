@@ -1,0 +1,15 @@
+/Users/piyushshaw/Projects/BasicCoreProgram/PowerOfTwo/PowerOfTwo/bin/Debug/net6.0/PowerOfTwo
+/Users/piyushshaw/Projects/BasicCoreProgram/PowerOfTwo/PowerOfTwo/bin/Debug/net6.0/PowerOfTwo.deps.json
+/Users/piyushshaw/Projects/BasicCoreProgram/PowerOfTwo/PowerOfTwo/bin/Debug/net6.0/PowerOfTwo.runtimeconfig.json
+/Users/piyushshaw/Projects/BasicCoreProgram/PowerOfTwo/PowerOfTwo/bin/Debug/net6.0/PowerOfTwo.dll
+/Users/piyushshaw/Projects/BasicCoreProgram/PowerOfTwo/PowerOfTwo/bin/Debug/net6.0/PowerOfTwo.pdb
+/Users/piyushshaw/Projects/BasicCoreProgram/PowerOfTwo/PowerOfTwo/obj/Debug/net6.0/PowerOfTwo.csproj.AssemblyReference.cache
+/Users/piyushshaw/Projects/BasicCoreProgram/PowerOfTwo/PowerOfTwo/obj/Debug/net6.0/PowerOfTwo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/piyushshaw/Projects/BasicCoreProgram/PowerOfTwo/PowerOfTwo/obj/Debug/net6.0/PowerOfTwo.AssemblyInfoInputs.cache
+/Users/piyushshaw/Projects/BasicCoreProgram/PowerOfTwo/PowerOfTwo/obj/Debug/net6.0/PowerOfTwo.AssemblyInfo.cs
+/Users/piyushshaw/Projects/BasicCoreProgram/PowerOfTwo/PowerOfTwo/obj/Debug/net6.0/PowerOfTwo.csproj.CoreCompileInputs.cache
+/Users/piyushshaw/Projects/BasicCoreProgram/PowerOfTwo/PowerOfTwo/obj/Debug/net6.0/PowerOfTwo.dll
+/Users/piyushshaw/Projects/BasicCoreProgram/PowerOfTwo/PowerOfTwo/obj/Debug/net6.0/refint/PowerOfTwo.dll
+/Users/piyushshaw/Projects/BasicCoreProgram/PowerOfTwo/PowerOfTwo/obj/Debug/net6.0/PowerOfTwo.pdb
+/Users/piyushshaw/Projects/BasicCoreProgram/PowerOfTwo/PowerOfTwo/obj/Debug/net6.0/PowerOfTwo.genruntimeconfig.cache
+/Users/piyushshaw/Projects/BasicCoreProgram/PowerOfTwo/PowerOfTwo/obj/Debug/net6.0/ref/PowerOfTwo.dll
