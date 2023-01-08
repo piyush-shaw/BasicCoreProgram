@@ -1,0 +1,15 @@
+/Users/piyushshaw/Projects/BasicCoreProgram/SwapNumber/SwapNumber/bin/Debug/net6.0/SwapNumber
+/Users/piyushshaw/Projects/BasicCoreProgram/SwapNumber/SwapNumber/bin/Debug/net6.0/SwapNumber.deps.json
+/Users/piyushshaw/Projects/BasicCoreProgram/SwapNumber/SwapNumber/bin/Debug/net6.0/SwapNumber.runtimeconfig.json
+/Users/piyushshaw/Projects/BasicCoreProgram/SwapNumber/SwapNumber/bin/Debug/net6.0/SwapNumber.dll
+/Users/piyushshaw/Projects/BasicCoreProgram/SwapNumber/SwapNumber/bin/Debug/net6.0/SwapNumber.pdb
+/Users/piyushshaw/Projects/BasicCoreProgram/SwapNumber/SwapNumber/obj/Debug/net6.0/SwapNumber.csproj.AssemblyReference.cache
+/Users/piyushshaw/Projects/BasicCoreProgram/SwapNumber/SwapNumber/obj/Debug/net6.0/SwapNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/piyushshaw/Projects/BasicCoreProgram/SwapNumber/SwapNumber/obj/Debug/net6.0/SwapNumber.AssemblyInfoInputs.cache
+/Users/piyushshaw/Projects/BasicCoreProgram/SwapNumber/SwapNumber/obj/Debug/net6.0/SwapNumber.AssemblyInfo.cs
+/Users/piyushshaw/Projects/BasicCoreProgram/SwapNumber/SwapNumber/obj/Debug/net6.0/SwapNumber.csproj.CoreCompileInputs.cache
+/Users/piyushshaw/Projects/BasicCoreProgram/SwapNumber/SwapNumber/obj/Debug/net6.0/SwapNumber.dll
+/Users/piyushshaw/Projects/BasicCoreProgram/SwapNumber/SwapNumber/obj/Debug/net6.0/refint/SwapNumber.dll
+/Users/piyushshaw/Projects/BasicCoreProgram/SwapNumber/SwapNumber/obj/Debug/net6.0/SwapNumber.pdb
+/Users/piyushshaw/Projects/BasicCoreProgram/SwapNumber/SwapNumber/obj/Debug/net6.0/SwapNumber.genruntimeconfig.cache
+/Users/piyushshaw/Projects/BasicCoreProgram/SwapNumber/SwapNumber/obj/Debug/net6.0/ref/SwapNumber.dll
