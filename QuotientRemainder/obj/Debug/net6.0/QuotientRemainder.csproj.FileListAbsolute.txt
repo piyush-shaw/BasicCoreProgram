@@ -1,0 +1,15 @@
+/Users/piyushshaw/Projects/QuotientRemainder/QuotientRemainder/bin/Debug/net6.0/QuotientRemainder
+/Users/piyushshaw/Projects/QuotientRemainder/QuotientRemainder/bin/Debug/net6.0/QuotientRemainder.deps.json
+/Users/piyushshaw/Projects/QuotientRemainder/QuotientRemainder/bin/Debug/net6.0/QuotientRemainder.runtimeconfig.json
+/Users/piyushshaw/Projects/QuotientRemainder/QuotientRemainder/bin/Debug/net6.0/QuotientRemainder.dll
+/Users/piyushshaw/Projects/QuotientRemainder/QuotientRemainder/bin/Debug/net6.0/QuotientRemainder.pdb
+/Users/piyushshaw/Projects/QuotientRemainder/QuotientRemainder/obj/Debug/net6.0/QuotientRemainder.csproj.AssemblyReference.cache
+/Users/piyushshaw/Projects/QuotientRemainder/QuotientRemainder/obj/Debug/net6.0/QuotientRemainder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/piyushshaw/Projects/QuotientRemainder/QuotientRemainder/obj/Debug/net6.0/QuotientRemainder.AssemblyInfoInputs.cache
+/Users/piyushshaw/Projects/QuotientRemainder/QuotientRemainder/obj/Debug/net6.0/QuotientRemainder.AssemblyInfo.cs
+/Users/piyushshaw/Projects/QuotientRemainder/QuotientRemainder/obj/Debug/net6.0/QuotientRemainder.csproj.CoreCompileInputs.cache
+/Users/piyushshaw/Projects/QuotientRemainder/QuotientRemainder/obj/Debug/net6.0/QuotientRemainder.dll
+/Users/piyushshaw/Projects/QuotientRemainder/QuotientRemainder/obj/Debug/net6.0/refint/QuotientRemainder.dll
+/Users/piyushshaw/Projects/QuotientRemainder/QuotientRemainder/obj/Debug/net6.0/QuotientRemainder.pdb
+/Users/piyushshaw/Projects/QuotientRemainder/QuotientRemainder/obj/Debug/net6.0/QuotientRemainder.genruntimeconfig.cache
+/Users/piyushshaw/Projects/QuotientRemainder/QuotientRemainder/obj/Debug/net6.0/ref/QuotientRemainder.dll
