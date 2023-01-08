@@ -1,0 +1,15 @@
+/Users/piyushshaw/Projects/BasicCoreProgram/FlipCoin/FlipCoin/bin/Debug/net6.0/FlipCoin
+/Users/piyushshaw/Projects/BasicCoreProgram/FlipCoin/FlipCoin/bin/Debug/net6.0/FlipCoin.deps.json
+/Users/piyushshaw/Projects/BasicCoreProgram/FlipCoin/FlipCoin/bin/Debug/net6.0/FlipCoin.runtimeconfig.json
+/Users/piyushshaw/Projects/BasicCoreProgram/FlipCoin/FlipCoin/bin/Debug/net6.0/FlipCoin.dll
+/Users/piyushshaw/Projects/BasicCoreProgram/FlipCoin/FlipCoin/bin/Debug/net6.0/FlipCoin.pdb
+/Users/piyushshaw/Projects/BasicCoreProgram/FlipCoin/FlipCoin/obj/Debug/net6.0/FlipCoin.csproj.AssemblyReference.cache
+/Users/piyushshaw/Projects/BasicCoreProgram/FlipCoin/FlipCoin/obj/Debug/net6.0/FlipCoin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/piyushshaw/Projects/BasicCoreProgram/FlipCoin/FlipCoin/obj/Debug/net6.0/FlipCoin.AssemblyInfoInputs.cache
+/Users/piyushshaw/Projects/BasicCoreProgram/FlipCoin/FlipCoin/obj/Debug/net6.0/FlipCoin.AssemblyInfo.cs
+/Users/piyushshaw/Projects/BasicCoreProgram/FlipCoin/FlipCoin/obj/Debug/net6.0/FlipCoin.csproj.CoreCompileInputs.cache
+/Users/piyushshaw/Projects/BasicCoreProgram/FlipCoin/FlipCoin/obj/Debug/net6.0/FlipCoin.dll
+/Users/piyushshaw/Projects/BasicCoreProgram/FlipCoin/FlipCoin/obj/Debug/net6.0/refint/FlipCoin.dll
+/Users/piyushshaw/Projects/BasicCoreProgram/FlipCoin/FlipCoin/obj/Debug/net6.0/FlipCoin.pdb
+/Users/piyushshaw/Projects/BasicCoreProgram/FlipCoin/FlipCoin/obj/Debug/net6.0/FlipCoin.genruntimeconfig.cache
+/Users/piyushshaw/Projects/BasicCoreProgram/FlipCoin/FlipCoin/obj/Debug/net6.0/ref/FlipCoin.dll
