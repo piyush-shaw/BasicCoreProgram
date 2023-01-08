@@ -1,0 +1,15 @@
+/Users/piyushshaw/Projects/BasicCoreProgram/EvenOdd/EvenOdd/bin/Debug/net6.0/EvenOdd
+/Users/piyushshaw/Projects/BasicCoreProgram/EvenOdd/EvenOdd/bin/Debug/net6.0/EvenOdd.deps.json
+/Users/piyushshaw/Projects/BasicCoreProgram/EvenOdd/EvenOdd/bin/Debug/net6.0/EvenOdd.runtimeconfig.json
+/Users/piyushshaw/Projects/BasicCoreProgram/EvenOdd/EvenOdd/bin/Debug/net6.0/EvenOdd.dll
+/Users/piyushshaw/Projects/BasicCoreProgram/EvenOdd/EvenOdd/bin/Debug/net6.0/EvenOdd.pdb
+/Users/piyushshaw/Projects/BasicCoreProgram/EvenOdd/EvenOdd/obj/Debug/net6.0/EvenOdd.csproj.AssemblyReference.cache
+/Users/piyushshaw/Projects/BasicCoreProgram/EvenOdd/EvenOdd/obj/Debug/net6.0/EvenOdd.GeneratedMSBuildEditorConfig.editorconfig
+/Users/piyushshaw/Projects/BasicCoreProgram/EvenOdd/EvenOdd/obj/Debug/net6.0/EvenOdd.AssemblyInfoInputs.cache
+/Users/piyushshaw/Projects/BasicCoreProgram/EvenOdd/EvenOdd/obj/Debug/net6.0/EvenOdd.AssemblyInfo.cs
+/Users/piyushshaw/Projects/BasicCoreProgram/EvenOdd/EvenOdd/obj/Debug/net6.0/EvenOdd.csproj.CoreCompileInputs.cache
+/Users/piyushshaw/Projects/BasicCoreProgram/EvenOdd/EvenOdd/obj/Debug/net6.0/EvenOdd.dll
+/Users/piyushshaw/Projects/BasicCoreProgram/EvenOdd/EvenOdd/obj/Debug/net6.0/refint/EvenOdd.dll
+/Users/piyushshaw/Projects/BasicCoreProgram/EvenOdd/EvenOdd/obj/Debug/net6.0/EvenOdd.pdb
+/Users/piyushshaw/Projects/BasicCoreProgram/EvenOdd/EvenOdd/obj/Debug/net6.0/EvenOdd.genruntimeconfig.cache
+/Users/piyushshaw/Projects/BasicCoreProgram/EvenOdd/EvenOdd/obj/Debug/net6.0/ref/EvenOdd.dll
