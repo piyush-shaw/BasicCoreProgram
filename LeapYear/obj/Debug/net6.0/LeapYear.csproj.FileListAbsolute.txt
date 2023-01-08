@@ -1,0 +1,15 @@
+/Users/piyushshaw/Projects/BasicCoreProgram/LeapYear/LeapYear/bin/Debug/net6.0/LeapYear
+/Users/piyushshaw/Projects/BasicCoreProgram/LeapYear/LeapYear/bin/Debug/net6.0/LeapYear.deps.json
+/Users/piyushshaw/Projects/BasicCoreProgram/LeapYear/LeapYear/bin/Debug/net6.0/LeapYear.runtimeconfig.json
+/Users/piyushshaw/Projects/BasicCoreProgram/LeapYear/LeapYear/bin/Debug/net6.0/LeapYear.dll
+/Users/piyushshaw/Projects/BasicCoreProgram/LeapYear/LeapYear/bin/Debug/net6.0/LeapYear.pdb
+/Users/piyushshaw/Projects/BasicCoreProgram/LeapYear/LeapYear/obj/Debug/net6.0/LeapYear.csproj.AssemblyReference.cache
+/Users/piyushshaw/Projects/BasicCoreProgram/LeapYear/LeapYear/obj/Debug/net6.0/LeapYear.GeneratedMSBuildEditorConfig.editorconfig
+/Users/piyushshaw/Projects/BasicCoreProgram/LeapYear/LeapYear/obj/Debug/net6.0/LeapYear.AssemblyInfoInputs.cache
+/Users/piyushshaw/Projects/BasicCoreProgram/LeapYear/LeapYear/obj/Debug/net6.0/LeapYear.AssemblyInfo.cs
+/Users/piyushshaw/Projects/BasicCoreProgram/LeapYear/LeapYear/obj/Debug/net6.0/LeapYear.csproj.CoreCompileInputs.cache
+/Users/piyushshaw/Projects/BasicCoreProgram/LeapYear/LeapYear/obj/Debug/net6.0/LeapYear.dll
+/Users/piyushshaw/Projects/BasicCoreProgram/LeapYear/LeapYear/obj/Debug/net6.0/refint/LeapYear.dll
+/Users/piyushshaw/Projects/BasicCoreProgram/LeapYear/LeapYear/obj/Debug/net6.0/LeapYear.pdb
+/Users/piyushshaw/Projects/BasicCoreProgram/LeapYear/LeapYear/obj/Debug/net6.0/LeapYear.genruntimeconfig.cache
+/Users/piyushshaw/Projects/BasicCoreProgram/LeapYear/LeapYear/obj/Debug/net6.0/ref/LeapYear.dll
