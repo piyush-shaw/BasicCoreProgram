@@ -1,0 +1,15 @@
+/Users/piyushshaw/Projects/BasicCoreProgram/Factor/Factor/bin/Debug/net6.0/Factor
+/Users/piyushshaw/Projects/BasicCoreProgram/Factor/Factor/bin/Debug/net6.0/Factor.deps.json
+/Users/piyushshaw/Projects/BasicCoreProgram/Factor/Factor/bin/Debug/net6.0/Factor.runtimeconfig.json
+/Users/piyushshaw/Projects/BasicCoreProgram/Factor/Factor/bin/Debug/net6.0/Factor.dll
+/Users/piyushshaw/Projects/BasicCoreProgram/Factor/Factor/bin/Debug/net6.0/Factor.pdb
+/Users/piyushshaw/Projects/BasicCoreProgram/Factor/Factor/obj/Debug/net6.0/Factor.csproj.AssemblyReference.cache
+/Users/piyushshaw/Projects/BasicCoreProgram/Factor/Factor/obj/Debug/net6.0/Factor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/piyushshaw/Projects/BasicCoreProgram/Factor/Factor/obj/Debug/net6.0/Factor.AssemblyInfoInputs.cache
+/Users/piyushshaw/Projects/BasicCoreProgram/Factor/Factor/obj/Debug/net6.0/Factor.AssemblyInfo.cs
+/Users/piyushshaw/Projects/BasicCoreProgram/Factor/Factor/obj/Debug/net6.0/Factor.csproj.CoreCompileInputs.cache
+/Users/piyushshaw/Projects/BasicCoreProgram/Factor/Factor/obj/Debug/net6.0/Factor.dll
+/Users/piyushshaw/Projects/BasicCoreProgram/Factor/Factor/obj/Debug/net6.0/refint/Factor.dll
+/Users/piyushshaw/Projects/BasicCoreProgram/Factor/Factor/obj/Debug/net6.0/Factor.pdb
+/Users/piyushshaw/Projects/BasicCoreProgram/Factor/Factor/obj/Debug/net6.0/Factor.genruntimeconfig.cache
+/Users/piyushshaw/Projects/BasicCoreProgram/Factor/Factor/obj/Debug/net6.0/ref/Factor.dll
