@@ -1,0 +1,15 @@
+/Users/piyushshaw/Projects/BasicCoreProgram/LargestNumber/LargestNumber/bin/Debug/net6.0/LargestNumber
+/Users/piyushshaw/Projects/BasicCoreProgram/LargestNumber/LargestNumber/bin/Debug/net6.0/LargestNumber.deps.json
+/Users/piyushshaw/Projects/BasicCoreProgram/LargestNumber/LargestNumber/bin/Debug/net6.0/LargestNumber.runtimeconfig.json
+/Users/piyushshaw/Projects/BasicCoreProgram/LargestNumber/LargestNumber/bin/Debug/net6.0/LargestNumber.dll
+/Users/piyushshaw/Projects/BasicCoreProgram/LargestNumber/LargestNumber/bin/Debug/net6.0/LargestNumber.pdb
+/Users/piyushshaw/Projects/BasicCoreProgram/LargestNumber/LargestNumber/obj/Debug/net6.0/LargestNumber.csproj.AssemblyReference.cache
+/Users/piyushshaw/Projects/BasicCoreProgram/LargestNumber/LargestNumber/obj/Debug/net6.0/LargestNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/piyushshaw/Projects/BasicCoreProgram/LargestNumber/LargestNumber/obj/Debug/net6.0/LargestNumber.AssemblyInfoInputs.cache
+/Users/piyushshaw/Projects/BasicCoreProgram/LargestNumber/LargestNumber/obj/Debug/net6.0/LargestNumber.AssemblyInfo.cs
+/Users/piyushshaw/Projects/BasicCoreProgram/LargestNumber/LargestNumber/obj/Debug/net6.0/LargestNumber.csproj.CoreCompileInputs.cache
+/Users/piyushshaw/Projects/BasicCoreProgram/LargestNumber/LargestNumber/obj/Debug/net6.0/LargestNumber.dll
+/Users/piyushshaw/Projects/BasicCoreProgram/LargestNumber/LargestNumber/obj/Debug/net6.0/refint/LargestNumber.dll
+/Users/piyushshaw/Projects/BasicCoreProgram/LargestNumber/LargestNumber/obj/Debug/net6.0/LargestNumber.pdb
+/Users/piyushshaw/Projects/BasicCoreProgram/LargestNumber/LargestNumber/obj/Debug/net6.0/LargestNumber.genruntimeconfig.cache
+/Users/piyushshaw/Projects/BasicCoreProgram/LargestNumber/LargestNumber/obj/Debug/net6.0/ref/LargestNumber.dll
