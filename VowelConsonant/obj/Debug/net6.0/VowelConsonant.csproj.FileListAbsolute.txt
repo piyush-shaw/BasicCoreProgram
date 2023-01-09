@@ -1,0 +1,15 @@
+/Users/piyushshaw/Projects/BasicCoreProgram/VowelConsonant/VowelConsonant/bin/Debug/net6.0/VowelConsonant
+/Users/piyushshaw/Projects/BasicCoreProgram/VowelConsonant/VowelConsonant/bin/Debug/net6.0/VowelConsonant.deps.json
+/Users/piyushshaw/Projects/BasicCoreProgram/VowelConsonant/VowelConsonant/bin/Debug/net6.0/VowelConsonant.runtimeconfig.json
+/Users/piyushshaw/Projects/BasicCoreProgram/VowelConsonant/VowelConsonant/bin/Debug/net6.0/VowelConsonant.dll
+/Users/piyushshaw/Projects/BasicCoreProgram/VowelConsonant/VowelConsonant/bin/Debug/net6.0/VowelConsonant.pdb
+/Users/piyushshaw/Projects/BasicCoreProgram/VowelConsonant/VowelConsonant/obj/Debug/net6.0/VowelConsonant.csproj.AssemblyReference.cache
+/Users/piyushshaw/Projects/BasicCoreProgram/VowelConsonant/VowelConsonant/obj/Debug/net6.0/VowelConsonant.GeneratedMSBuildEditorConfig.editorconfig
+/Users/piyushshaw/Projects/BasicCoreProgram/VowelConsonant/VowelConsonant/obj/Debug/net6.0/VowelConsonant.AssemblyInfoInputs.cache
+/Users/piyushshaw/Projects/BasicCoreProgram/VowelConsonant/VowelConsonant/obj/Debug/net6.0/VowelConsonant.AssemblyInfo.cs
+/Users/piyushshaw/Projects/BasicCoreProgram/VowelConsonant/VowelConsonant/obj/Debug/net6.0/VowelConsonant.csproj.CoreCompileInputs.cache
+/Users/piyushshaw/Projects/BasicCoreProgram/VowelConsonant/VowelConsonant/obj/Debug/net6.0/VowelConsonant.dll
+/Users/piyushshaw/Projects/BasicCoreProgram/VowelConsonant/VowelConsonant/obj/Debug/net6.0/refint/VowelConsonant.dll
+/Users/piyushshaw/Projects/BasicCoreProgram/VowelConsonant/VowelConsonant/obj/Debug/net6.0/VowelConsonant.pdb
+/Users/piyushshaw/Projects/BasicCoreProgram/VowelConsonant/VowelConsonant/obj/Debug/net6.0/VowelConsonant.genruntimeconfig.cache
+/Users/piyushshaw/Projects/BasicCoreProgram/VowelConsonant/VowelConsonant/obj/Debug/net6.0/ref/VowelConsonant.dll
